@@ -8,6 +8,10 @@ Este é um boilerplate inicial para projetos Vue.js utilizando ShadCN. Ele forne
 - **ShadCN**: Uma coleção de componentes de UI estilizados, prontos para uso em projetos Vue.js.
 - **Vite**: Uma ferramenta de build extremamente rápida e moderna que serve como o bundler da aplicação.
 
+## Documentação dos componentes
+
+[Shadcn](https://www.shadcn-vue.com/docs/components/accordion.html), uma coleçãocoleção de componentes reutilizáveis.
+
 ## Estrutura do Projeto
 
 ```bash
